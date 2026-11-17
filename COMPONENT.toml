@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-artwork"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-artwork component"
+description = "SigmaOS SigmaOS-archlinux-artwork component"
 upstream = []
 
 [contract]
